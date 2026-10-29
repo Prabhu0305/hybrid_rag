@@ -117,5 +117,5 @@ HuggingFace • FAISS • LangChain • Streamlit • Python • Groq
 
 ## 👨‍💻 Author
 
-Nannuri Sai Kamal
-GitHub: https://github.com/Uchihakamal1816
+Dosapati Ashirvadhan
+
